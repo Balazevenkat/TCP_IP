@@ -8,7 +8,8 @@ struct in_addr {
 };
 */
 #include"headers.h"
-//./a.out 3000 127.0.0.1 
+ //./a.out  2000 192.168.0.10
+//./a.out 3000 127.0.0.1   (sever)
 int main(int argc,char *argv[]){
     if(argc<3){
         puts("input @cmdline : client.exe portNo serverIP");
