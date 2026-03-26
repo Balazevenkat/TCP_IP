@@ -1,0 +1,19 @@
+✅ sprintf() – Simple Explanation
+
+sprintf() writes formatted output into a string instead of printing on screen.
+
+📌 Syntax
+sprintf(dest_string, "format", values);
+✔ What it does?
+Works like printf()
+But stores the output in a character array
+Does NOT print anything on the screen
+📌 Example
+char str[50];
+sprintf(str, "Sum = %d", 10 + 20);
+printf("%s", str);
+✔ Output:
+Sum = 30
+⭐ One-line summary
+
+sprintf() = printf() output stored into a string.
