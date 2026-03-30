@@ -17,3 +17,27 @@ Sum = 30
 ⭐ One-line summary
 
 sprintf() = printf() output stored into a string.
+
+
+
+🎤 Oral Script — “Why TCP/IP and Socket Programming?”
+1️⃣ What is TCP/IP?
+
+“TCP/IP is the basic communication system of any network.
+IP gives the address of the device, and TCP makes sure data reaches correctly, in order, and without any loss.
+It is the foundation of the internet.”
+
+2️⃣ Why do we need TCP/IP?
+
+“We need TCP/IP so two devices can communicate reliably.
+IP helps us locate the device, and TCP ensures safe, error-free delivery between sender and receiver.”
+
+3️⃣ What is Socket Programming?
+
+“Socket programming is used to create communication between a client and a server.
+A socket works like an endpoint where we can send data or receive data across a network.”
+
+4️⃣ Why do we use sockets?
+
+“We use sockets to build network applications like chat apps, web servers, file transfer, IoT communication, and any client-server system.
+It lets two programs talk to each other over LAN or internet.”
